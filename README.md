@@ -1,5 +1,3 @@
-# SE-Hackathon
-
 # SEHackathon -Data Science Challenge
 
 ### By: Lydia Petridi
